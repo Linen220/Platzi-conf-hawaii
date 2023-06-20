@@ -37,3 +37,11 @@
     z-index: 1;
     color: white;
 }
+
+.btn-platzi {
+    background-color: #97c93e;
+    color: white;
+}
+.btn-platzi:hover {
+    background-color: #82ad36;
+}
