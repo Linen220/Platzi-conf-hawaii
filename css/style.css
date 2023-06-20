@@ -45,3 +45,9 @@
 .btn-platzi:hover {
     background-color: #82ad36;
 }
+
+/** Cards */
+#speakers img {
+    height: 380px;
+    object-fit: cover;
+}
