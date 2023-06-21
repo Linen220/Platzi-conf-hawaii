@@ -53,11 +53,16 @@
 }
 
 /** Place time*/
-#place-time {
+/** Tambien se puede usar bg-dark y text-white*/
+/* #place-time {
     background-color: #343a40;
     color: white;
-}
-#place-time img {
+} */
+
+/** En este caso tambien se puede poner la clase .img-fluid en la */
+/** la imagen para que ocupe todo el ancho de la columna en vez de */
+/** la siguiente solución */
+/* #place-time img {
     max-width: 100%;
-}
+} */
 
