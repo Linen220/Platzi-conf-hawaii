@@ -14,16 +14,16 @@
 
 ## Screenshot
 
-![](./assets/img/Screenshot_1.png)
+<!-- ![](./assets/img/Screenshot_1.png)
 ![](./assets/img/Screenshot_2.png)
 ![](./assets/img/Screenshot_3.png)
-![](./assets/img/Screenshot_4.png)
+![](./assets/img/Screenshot_4.png) -->
 
 <br>
 
 ## Link
 
-- Live site URL: [Visit Batatabit](https://linen220.github.io/Batatabit-Mobile-First/)
+<!-- - Live site URL: [Visit Platzi-conf](https://linen220.github.io/Batatabit-Mobile-First/) -->
 
 <br>
 
@@ -36,12 +36,11 @@
 
 ## What I learned
 
-* Usage of **flex** layout's properties in css.
-* Used HTML5 semantic elements for better accessability and readability.
+<!-- * Used HTML5 semantic elements for better accessability and readability.
 * Used media queries for responsive design.
 * Used image carousel.
 * Usage of mobile first design.
-* Tried to maintain clean code.
+* Tried to maintain clean code. -->
 
 <br>
 
