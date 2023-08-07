@@ -31,16 +31,15 @@
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br>
 
 ## What I learned
 
-<!-- * Used HTML5 semantic elements for better accessability and readability.
-* Used media queries for responsive design.
-* Used image carousel.
-* Usage of mobile first design.
-* Tried to maintain clean code. -->
+* Used HTML5 semantic elements for better accessability and readability.
+* Used boostrap 5.
+* Tried to maintain clean code.
 
 <br>
 
