@@ -16,10 +16,10 @@ Platzi Conf llega por primera vez a Hawaii! Un evento para compartir con nuestra
 
 ## Screenshot
 
-![](./assets/image/Screenshot_1.png)
-![](./assets/image/Screenshot_2.png)
-![](./assets/image/Screenshot_3.png)
-![](./assets/image/Screenshot_4.png)
+![](./assets/images/Screenshot_1.png)
+![](./assets/images/Screenshot_2.png)
+![](./assets/images/Screenshot_3.png)
+![](./assets/images/Screenshot_4.png)
 
 <br>
 
