@@ -1,5 +1,7 @@
 # Platzi-conf-hawaii
 
+Platzi Conf llega por primera vez a Hawaii! Un evento para compartir con nuestra comunidad el conocimiento y es experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del Team Platzi, a otros estudiantes de Platzi y a los oradores de primer nivel que tenemos para ti. Te esperamos!
+
 <br>
 
 ## Table of contents
@@ -23,7 +25,7 @@
 
 ## Link
 
-<!-- - Live site URL: [Visit Platzi-conf](https://linen220.github.io/Batatabit-Mobile-First/) -->
+- Live site URL: [Visit Platzi-conf](https://linen220.github.io/Platzi-conf-hawaii/)
 
 <br>
 
